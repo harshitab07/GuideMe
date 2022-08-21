@@ -148,6 +148,9 @@ body{
         margin-right: 0.3rem;
 
     }
+      #result{
+      color: black;
+      }
   }
   @media screen and (max-width: 424px){
     #container{
